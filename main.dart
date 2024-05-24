@@ -18,16 +18,16 @@ class MyApp extends StatelessWidget {
             crossAxisCount: 2,
             children: [
               MovieCard(
-                title: 'Vaquito',
-                imagePath: 'assets/aa.jpg',
+                title: 'Furiosa',
+                imagePath: 'assets/furiosa.jpg',
               ),
               MovieCard(
-                title: 'Garfield',
-                imagePath: 'assets/aaa.jpg',
+                title: 'KungFuPanda4',
+                imagePath: 'assets/KFP4.jpg',
               ),
               MovieCard(
-                title: 'Intensamente2',
-                imagePath: 'assets/aaaa.jpg',
+                title: 'LosExtraños',
+                imagePath: 'assets/LosExtraños.jpg',
               ),
             ],
           ),
